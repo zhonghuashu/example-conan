@@ -1,0 +1,9 @@
+{
+    "version": 4,
+    "vendor": {
+        "conan": {}
+    },
+    "include": [
+        "/root/github/example-conan/hellopkg/test_package/build/Release/generators/CMakePresets.json"
+    ]
+}
